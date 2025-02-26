@@ -32,40 +32,40 @@ Before you start, make sure you have the following installed:
 
 Follow these steps to set up the project locally:
 
-1. **Clone the repository:**
+1.  **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/hemantsingh2004/watchnest-client.git
-   cd watchnest-client
-   ```
+    ```bash
+    git clone https://github.com/hemantsingh2004/watchnest-client.git
+    cd watchnest-client
+    ```
 
-2. **Install dependencies:**
+2.  **Install dependencies:**
 
-Make sure you have npm or yarn installed, then run:
+    Make sure you have npm or yarn installed, then run:
 
-```bash
-npm install
-```
+        ```bash
+        npm install
+        ```
 
-Or, if you're using yarn:
+    Or, if you're using yarn:
 
-```bash
-yarn install
-```
+        ```bash
+        yarn install
+        ```
 
-3. **Start the development server:**
+3.  **Start the development server:**
 
-After installation is complete, start the development server:
+    After installation is complete, start the development server:
 
-```bash
-npm run dev
-```
+        ```bash
+        npm run dev
+        ```
 
-Or, with yarn:
+    Or, with yarn:
 
-```bash
-yarn dev
-```
+        ```bash
+        yarn dev
+        ```
 
 ## Contributing
 
@@ -78,4 +78,4 @@ Make your changes and test them locally.
 Submit a pull request with a detailed description of the changes you made.
 Please make sure to follow our code style and include tests for new features or bug fixes.
 
-Thank you for using WatchNest! If you have any questions or suggestions, feel free to open an issue or reach out to us.
+## Thank you for using WatchNest! If you have any questions or suggestions, feel free to open an issue or reach out to us.
